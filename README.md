@@ -22,7 +22,7 @@ Follow these simple steps to run this contract on Remix IDE:
 2. **Import Code from GitHub**  
    - Click the **Git** icon on the left panel.  
    - Choose **Clone repository**.  
-   - Paste this URL: `https://github.com/ALOENT/Simple-Storage`  
+   - Paste this URL: `https://github.com/ALOENT/Simple-Storage.git`  
    - Click **Clone** and then return to the **File Explorer** to view all files.
 
 3. **Compile the Contract**  
