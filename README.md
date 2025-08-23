@@ -32,7 +32,7 @@ Follow these simple steps to run this contract on Remix IDE:
 
 4. **Deploy the Contract**  
    - Open the **Deploy & Run Transactions** tab (Ethereum diamond icon).  
-   - Set **Environment** to any **Remix VM** for easy use without MetaMask, or **Injected Web3** to connect MetaMask and deploy on Sepolia testnet.
+   - Set **Environment** to any **Remix VM** for easy use without MetaMask, or **Injected Provider - MetaMask** to connect MetaMask and deploy on Sepolia testnet.
    - Choose `SimpleStorage` from the **Contracts** dropdown.  
    - Click **Deploy**.  
    - If using MetaMask, approve the transaction.
